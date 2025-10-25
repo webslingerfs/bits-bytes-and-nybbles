@@ -1,17 +1,3 @@
----
-title: Home
-nav_order: 0
----
-
-# Bits, Bytes, and Nybbles 🧠💻
-Welcome to my personal knowledge hub!
-
-## Explore
-- 🛰️ [Networking](/bits-bytes-and-nybbles/networking/)
-- 🔒 [Security](/bits-bytes-and-nybbles/security/)
-- ⚙️ [Automation](/bits-bytes-and-nybbles/automation/)
-- 🧪 [Labs](/bits-bytes-and-nybbles/labs/)
-
 # Bits, Bytes, and Nybbles 🧠💻
 Welcome to my personal knowledge hub!
 
