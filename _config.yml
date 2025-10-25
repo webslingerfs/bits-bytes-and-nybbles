@@ -1,0 +1,33 @@
+title: Bits, Bytes, and Nybbles
+description: Personal knowledge hub for networking, cybersecurity, and automation.
+# Use the Just the Docs theme hosted on GitHub
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+# Site settings
+url: https://webslingerfs.github.io
+baseurl: /bits-bytes-and-nybbles   # keep this; it's your repo name
+
+# Navigation settings
+logo:                           # (optional) /assets/logo.png after you add one
+search_enabled: true
+aux_links:
+  GitHub Repository: https://github.com/webslingerfs/bits-bytes-and-nybbles
+footer_content: "© <current year> webslingerfs"
+
+# Collections (optional, but great for labs)
+collections:
+  labs:
+    output: true
+    permalink: /labs/:name
+
+# Defaults let you set page titles & ordering via front matter
+defaults:
+  - scope: {path: "networking"}
+    values: {nav_order: 1, parent: "Networking", layout: default}
+  - scope: {path: "security"}
+    values: {nav_order: 2, parent: "Security", layout: default}
+  - scope: {path: "automation"}
+    values: {nav_order: 3, parent: "Automation", layout: default}
+  - scope: {path: ""}
+    values: {layout: default}
