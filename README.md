@@ -6,10 +6,11 @@ This site is where I document what I learn about **networking**, **cybersecurity
 ---
 
 ## 📚 Sections
-- 🛰️ [Networking](#networking)
-- 🔒 [Security](#security)
-- ⚙️ [Automation](#automation)
-- 🧪 [Labs](#labs)
+
+- 🛰️ [Networking](networking/)
+- 🔒 [Security](security/)
+- ⚙️ [Automation](automation/)
+- 🧪 [Labs](labs/)
 
 ---
 
